@@ -1,6 +1,6 @@
 
 # medications-searcher
-Search for a medication or active ingredient in the [OpenFDA API] (https://open.fda.gov/apis/)
+Search for a medication or active ingredient in the [OpenFDA API](https://open.fda.gov/apis/)
 
 ## Installation
 
